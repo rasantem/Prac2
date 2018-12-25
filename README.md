@@ -11,7 +11,7 @@ Los trabajos de la práctica se han realizado de forma individual por Raúl Sán
 ## Descripción de los ficheros
 
 - **code/p2.R**: Código R implementación tareas de limpieza, integración, validación y análisis de los datos.
-- **src/p2.Rmd**: Implementa el código generador del informe de análisis.
+- **code/p2.Rmd**: Implementa el código generador del informe de análisis.
 - **data/es_food_nutrients.csv** Conjunto de datos original. 
 - **data/es_food_nutrients_clean.csv** Conjuto de datos procesados.
 

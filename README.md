@@ -2,7 +2,7 @@
 
 ## Descripción
 
-La práctica consiste en la recopilación de los datos referentes a los nutrientes que componen diferentes productos a partir de la página web openfoodfacts.org que se incluirán en el Dataset final es_food_nutrients.csv. Se han almacenado las imágenes de cada uno de los productos en la carpeta es_images del dataset. Se ha utilizado para ello el lenguaje de programación Python 2.7.
+La práctica consiste en la integración, limpieza, validación y análisis de datos aplicado sobre el conjunto de datos obtenido en la práctica 1 de la asignatura. 
 
 ## Componentes del grupo
 
@@ -10,8 +10,10 @@ Los trabajos de la práctica se han realizado de forma individual por Raúl Sán
 
 ## Descripción de los ficheros
 
-- **src/main.py**: Inicializa la clase crawler e inicia el proceso de recopilación de datos.
-- **src/foodCrawler.py**: Implementa la clase crawler que permite recopilar los datos de los productos existentes en la página openfoodfacts.org de dos formas : Mediante la recopilación de productos por país o mediante la recopilación de los productos de forma global de todo el mundo.
+- **code/p2.R**: Código R implementación tareas de limpieza, integración, validación y análisis de los datos.
+- **src/p2.Rmd**: Implementa el código generador del informe de análisis.
+- **data/es_food_nutrients.csv** Conjunto de datos original. 
+- **data/es_food_nutrients_clean.csv** Conjuto de datos procesados.
 
 ## Recursos
 

@@ -15,4 +15,6 @@ Los trabajos de la práctica se han realizado de forma individual por Raúl Sán
 
 ## Recursos
 
-- Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
+- Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369 . 
+- Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and  techniques . Morgan Kaufmann. Capítol 3.  
+- Megan Squire (2015). Clean Data . Packt Publishing Ltd. Capítols 1 i 2.
